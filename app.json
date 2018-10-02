@@ -1,0 +1,14 @@
+{
+  "expo": {
+   "name": "Rebel Rebel Clothing App",
+   "version": "1.0.0",
+   "slug": "rn-wc-store",
+   "sdkVersion": "25.0.0",
+   "ios": {
+     "bundleIdentifier": "com.woocommerce.store"
+   },
+   "android": {
+     "package": "com.woocommerce.store"
+   }
+  }
+}
